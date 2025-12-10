@@ -67,6 +67,7 @@ mvn clean verify sonar:sonar
 
 
  Le scanner Maven va automatiquement lire le fichier sonar-project.properties.
+ 
 
 #  5. Consulter les résultats
 
@@ -101,6 +102,23 @@ serviceA-jersey1/
       ├── sonar-project.properties
       ├── src/
       └── target/
+      ''''
+      
+![WhatsApp Image 2025-12-10 at 09 51 38](https://github.com/user-attachments/assets/55969e1c-1ee4-4c8b-849b-a1cef7063acd)
+![WhatsApp Image 2025-12-10 at 09 52 38](https://github.com/user-attachments/assets/1dc0da36-98f7-4296-b15e-43e44ae414bf)
+![WhatsApp Image 2025-12-10 at 09 57 41](https://github.com/user-attachments/assets/495ea7ab-9c85-4c20-b2c8-ba0afbecf01e)
+
+![WhatsApp Image 2025-12-10 at 09 59 22](https://github.com/user-attachments/assets/2a7b6cff-5b89-45bb-ba01-3519ea36bccc)
+![WhatsApp Image 2025-12-10 at 10 02 22](https://github.com/user-attachments/assets/485d3e43-90e6-4e2a-9b2e-680b13e31cab)
+
+![WhatsApp Image 2025-12-10 at 10 02 55](https://github.com/user-attachments/assets/e86a62c9-6793-4246-a41b-cf82d8c86efd)
+![WhatsApp Image 2025-12-10 at 10 07 25](https://github.com/user-attachments/assets/2f95d800-985c-4577-af58-2d8b7e146f4d)
+
+![WhatsApp Image 2025-12-10 at 10 07 25](https://github.com/user-attachments/assets/9f10d136-4f1d-41ef-854e-c78579201b78)
+![WhatsApp Image 2025-12-10 at 13 20 39](https://github.com/user-attachments/assets/36f8cce6-baa8-41f6-983a-964e5c76d75a)
+
+
+
 
 #  8. Conclusion
 
